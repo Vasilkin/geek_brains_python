@@ -1,4 +1,4 @@
-print("Hello world!!!")
-print("Hello everybody")
-porint("Hello my dear freiend")
-print('Glad to see you")
+print("Hello world!!!;")
+print("Hello everybody;")
+porint("Hello my dear freiend;")
+print('Glad to see you;")
