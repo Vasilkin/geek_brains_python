@@ -1,3 +1,0 @@
-print("Goodbay America, ooo")
-print("Goodbay")
-print("I'll come back")
